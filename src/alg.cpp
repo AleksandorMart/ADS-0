@@ -1,5 +1,4 @@
 // Copyright 2021 NNTU-CS
-
 int gcd(int a, int b) {
     int i;
     if (a > b) i = b;
