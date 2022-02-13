@@ -1,7 +1,7 @@
 // Copyright 2021 NNTU-CS
 
 int gcd(int a, int b) {
- int i;
+    int i;
     if (a > b) i = b;
     else i = a;
     while (i > 0){
